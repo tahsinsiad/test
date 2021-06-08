@@ -1,0 +1,6 @@
+node_modules/
+.next/
+_next/
+*.log
+.DS_Store
+out/.powenv

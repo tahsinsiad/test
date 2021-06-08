@@ -1,0 +1,59 @@
+{
+  "name": "centre",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "cacheDirectories": [
+    ".next/cache"
+  ],
+  "dependencies": {
+    "@emotion/core": "^10.0.35",
+    "@emotion/styled": "^10.0.27",
+    "@fortawesome/fontawesome-svg-core": "^1.2.18",
+    "@fortawesome/free-solid-svg-icons": "^5.8.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "axios": "^0.19.2",
+    "compression": "^1.7.4",
+    "dotenv": "^8.2.0",
+    "emotion": "^10.0.27",
+    "emotion-server": "^10.0.27",
+    "emotion-theming": "^10.0.27",
+    "html-react-parser": "^0.13.0",
+    "lodash": "^4.17.19",
+    "micro-form": "^2.0.5",
+    "next": "^10.0.4",
+    "next-google-fonts": "^1.2.1",
+    "next-pwa": "^3.1.5",
+    "next-redirect": "^1.0.1",
+    "next-routes": "^1.4.2",
+    "next-seo": "^4.7.3",
+    "nodemailer": "^6.4.10",
+    "normalize.css": "^8.0.1",
+    "nprogress": "^0.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-ga": "^3.1.2",
+    "react-mailchimp-subscribe": "^2.1.0",
+    "react-share": "^4.2.1",
+    "react-slick": "^0.27.0",
+    "react-social-icons": "^4.1.0",
+    "react-string-replace": "^0.4.4",
+    "semantic-ui-carousel-react": "ashrafbafe/semantic-ui-carousel-react",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2",
+    "sweetalert2": "^9.17.0",
+    "swr": "^0.4.2"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "babel-preset-react-app": "^9.1.2",
+    "css-loader": "^5.0.0",
+    "sass": "^1.27.0",
+    "sass-loader": "^10.0.3",
+    "style-loader": "^2.0.0"
+  }
+}

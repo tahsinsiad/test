@@ -1,0 +1,5 @@
+.next
+node_modules
+_next
+README.md 
+npm-debug.log
